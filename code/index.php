@@ -14,7 +14,7 @@
       <div id="icon"></div>
     </header>
     <h1>Built for Students</h1>
-    <h3>Lorem ipsum dolor amet umami gastropub williamsburg YOLO. Enamel pin flannel jianbing pop-up hammock viral sriracha irony mumblecore palo santo raw denim.</h3>
+    <h3> Built by students for students. We make it simpler to track your results so you'll have a better time at high-school.</h3>
     <!--Form-->
     <form method="post" action="register.php">
     	<?php include('errors.php'); ?>
