@@ -1,2 +1,2 @@
 # ritacalc
-Calculate your everage as a student of Sint-Rita.
+Calculate your avarage as a student of Sint-Rita.
