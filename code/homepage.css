@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    width:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    height: 80px;
+    background-color: #1d2731;
+}
+
+h2 {
+    color: #FFFFFF;
+    font-weight: 200;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+a {
+    color: red;
+}
+
+#icon {
+    width: 80px;
+    height: 80px;
+    margin-left: 10%;
+    background: url('../assets/Logo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.content {
+    width: 250px;
+    height: 80px;
+    margin-left: auto;
+    margin-top: -80px;
+
+}
+
+.error {
+    width: 92%;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: left;
+}
